@@ -1,0 +1,19 @@
+Instrucciones de Git:
+
+- git log:
+- git show 217881636812hbrefewfwdnwefefwfwf Testcafe/practica4.js
+
+
+Subir actualización de repositorio:
+1. git status
+2. git add Testcafe/
+3. git status
+4. git commit -m "agregar practicas 5 y 6"
+5. git status
+6. git branch
+7. git push origin 20Oct
+>>> Realizar merch en github.com <<<
+8. git checkout master
+9. git fetch
+10. git pull origin master
+11. history

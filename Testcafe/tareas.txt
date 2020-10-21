@@ -1,0 +1,7 @@
+** Tarea: 1. entregar el Readme para el martes [✓] - Martes 20oct
+** Tarea2: Hacer que falle la prueba dos cuando debe fallar [X]
+** Tarea 3: Agregar una prueba negativa al recuperar el password [X]
+** Tarea 4: Vean el error en el script, ¿Donde? Recuerden que a veces [X]
+el chat del zoom cambia las comillas simples, hay que ver que si las tomo bien
+** Tarea 5: En practica 5 realizar 3 pruebas  diferentes sobre los inputs [X]
+** Tarea 6: Agregar una prueba mas sobre los botones [X]
