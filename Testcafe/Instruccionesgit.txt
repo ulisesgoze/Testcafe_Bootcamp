@@ -17,3 +17,8 @@ Subir actualización de repositorio:
 9. git fetch
 10. git pull origin master
 11. history
+
+
+- Instrucciones de la terminarl
+$testcafe -b :: Saber que navegadores tengo instalados
+$
